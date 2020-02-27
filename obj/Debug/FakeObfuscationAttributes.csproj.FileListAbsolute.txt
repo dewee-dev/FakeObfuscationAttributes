@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\obj\Debug\FakeObfuscationAttributes.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\obj\Debug\FakeObfuscationAttributes.Form1.resources
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\obj\Debug\FakeObfuscationAttributes.Properties.Resources.resources
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\obj\Debug\FakeObfuscationAttributes.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\bin\Debug\FakeObfuscationAttributes.exe.config
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\bin\Debug\FakeObfuscationAttributes.exe
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\bin\Debug\FakeObfuscationAttributes.pdb
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\bin\Debug\dnlib.dll
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\obj\Debug\FakeObfuscationAttributes.csproj.CopyComplete
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\obj\Debug\FakeObfuscationAttributes.exe
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\obj\Debug\FakeObfuscationAttributes.pdb
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\bin\Debug\Fake.dll
+C:\Users\ASUS\source\repos\FakeObfuscationAttributes\bin\Debug\Fake.pdb
